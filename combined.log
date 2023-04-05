@@ -1,0 +1,9 @@
+[2023-04-03 10:40:22.243 AM] [32minfo[39m: 	[32mtry hard[39m
+[2023-04-03 10:52:48.498 AM] [32minfo[39m: 	[32mtry hard[39m
+{"level":"error","message":"an error","stack":"Error: an error\n    at D:\\Nutech\\Practice\\routes\\barang.js:26:22\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2023-04-03T03:54:22.772Z"}
+[2023-04-03 10:56:36.965 AM] info: 	try hard
+[undefined] level: error error: [object Object]
+[undefined] level: error error: [object Object]
+[undefined] level: error message: an error
+[undefined] level: error message: an error
+{"level":"error","message":"an error","stack":"Error: an error\n    at D:\\Nutech\\Practice\\routes\\barang.js:26:22\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2023-04-03T04:09:18.538Z"}
